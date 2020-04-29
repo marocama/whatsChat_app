@@ -1,16 +1,25 @@
-# whatschat
+# WhatsChat
 
-An alternate chat Flutter application.
+A ideia deste projeto é desenvolver uma aplicação Flutter que possa ser utilizada como substituto pessoal de mensageiros instantaneos utilizados em grande escala atualmente, no caso destes vierem a sofrer com instabilidades ou até mesmo terem suas atividades encerradas, como ficou famoso o caso do Whatsapp quando teve seu funcionamento comprometido por questões judiciais no Brasil.
 
-## Getting Started
+### Instalação
 
-This project is a starting point for a Flutter application.
+Clone o repositório, obtendo todos os arquivos gerados pelo projeto do Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+```sh
+$ git clone https://github.com/marocama/whatsChat_app.git
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Objetivos
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [ ] Interface de login e registro
+- [ ] Interface para listar todas as conversas
+- [ ] Interface para listar meus contatos
+- [ ] Interface de uma conversa
+- [ ] Implementar a troca de mensagens de texto 
+- [ ] Implementar o envio de arquivos de mídia
+- [ ] Implementar notificações no caso de novas mensagens
+- [ ] Possibilidade de apagar mensagens
+- [ ] Possibilidade de apagar conversas
+
+
